@@ -4,34 +4,28 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/microservices/device-management" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/microservices/device-management" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/microservices/temperature-monitoring" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/microservices/temperature-monitoring" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/microservices/temperature-processing" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/microservices/temperature-processing" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="true" />
       </GradleProjectSettings>
     </option>
   </component>
